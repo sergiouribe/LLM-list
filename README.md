@@ -20,6 +20,12 @@
   - [Other Useful Resources](#other-useful-resources)
   - [Contributing](#contributing)
 
+## Dental and medical domain specific LLMs 
+ - [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)
+ - [Context Matters: A Strategy to Pre-train Language Model for Science Education](https://arxiv.org/abs/2301.12031)
+ - [AD-AutoGPT: An Autonomous GPT for Alzheimer's Disease Infodemiology](https://arxiv.org/abs/2306.10095)
+ - [Radiology-GPT: A Large Language Model for Radiology](https://arxiv.org/abs/2306.08666)
+
 ## Milestone Papers
 
 |  Date  |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication |
